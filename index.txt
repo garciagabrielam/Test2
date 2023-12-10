@@ -1,0 +1,24 @@
+
+<!----------------------THIS IS #column1---------------------> 
+
+<h2>Public Speaking For Everyone</h2>
+<p>  Preparing and delivering your first public speech can be a daunting affair. You may find it difficult deciding what you want to say, how to say it, or perhaps the thought of speaking before an audience scares you. It's true that some people are naturally talented at public speaking, but the good news is that with some helpful guidance, anyone can write and deliver a successful speech that will be remembered for all the right reasons. </p>
+
+<h2>Solid Foundations</h2>
+<p> Your first instinct may be to sit down with a pen and paper and charge full steam ahead into the first line of your speech. Don't do that. You will save yourself a lot of time and effort, not to mention much frustrating re-writing, if you begin instead by devoting some time to careful planning of your speech. Planning is a crucial foundation, and you should dedicate as much time to it as possible and avoid short-cuts. </p>
+
+<p>Through effective preparation, you will answer all the questions and doubts about your speech before they arise. Let's take a look at some important factors that should be considered from the beginning. </p>
+
+
+
+<!----------------------THIS IS #column2---------------------> 
+
+<h2>Factors</h2>
+<p>The contents of your speech, and how you deliver it, are based on three important factors: </p>
+
+
+<ul>
+  <li>The Occasion</li>
+  <li>The Audience</li>
+  <li>The Purpose of Speech </li>
+</ul>
